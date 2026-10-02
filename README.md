@@ -202,6 +202,9 @@ The goal of this framework is: **to unify all interactions as different elastic 
 
 As the model quotes Lao Tzu: "The Way of Heaven diminishes the surplus to supplement the deficient." The dynamics of the universe may precisely be the irreversible redistribution of energy from high to low, from surplus to deficient, on a topologically invariant network. And spin, axis rotation, resonance, tensor deformation, and twistor deformation are precisely the complete expression of degrees of freedom of this redistribution process in 3D space.
 
+Zou, Z. K. (2026). Quantized Space Configuration and Dynamical Degrees of Freedom: Elementary Quantum Spin, Axis Rotation, Resonance, Inter-Adjacent-Quantum Tensor-Twistor Deformation, and Deformation Energy. Zenodo. https://doi.org/10.5281/zenodo.23097873 
+
+
 ## Author's Previous Related Works:
 
 1.Previous Preprint from 2025 :Zou, Z. K. (2025). The Thermodynamic Nature of Time, The Geometric Essence of Gravity-Mass, The Quantum Chirality of Space, The Non-Statistical Formula of Entropy, The Dynamical Rules of Causality. Zenodo. https://doi.org/10.5281/zenodo.14788393
